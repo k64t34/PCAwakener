@@ -1,0 +1,12 @@
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Release\x64\SQLite.Interop.dll
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Release\x86\SQLite.Interop.dll
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Release\PCawakener.exe.config
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Release\PCawakener.exe
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Release\System.Data.SQLite.dll
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Release\System.Data.SQLite.Linq.dll
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Release\System.Data.SQLite.xml
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Release\PCawakener.MainForm.resources
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Release\PCawakener.vbproj.GenerateResource.Cache
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Release\PCawakener.exe
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Release\PCawakener.vbprojResolveAssemblyReference.cache
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Release\PCawakener.editMAC.resources

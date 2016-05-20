@@ -1,0 +1,13 @@
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Debug\x64\SQLite.Interop.dll
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Debug\x86\SQLite.Interop.dll
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Debug\PCawakener.exe.config
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Debug\PCawakener.exe
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Debug\PCawakener.pdb
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Debug\System.Data.SQLite.dll
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Debug\System.Data.SQLite.Linq.dll
+C:\pro\rwol.net\PCawakener\PCawakener\bin\Debug\System.Data.SQLite.xml
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Debug\PCawakener.MainForm.resources
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Debug\PCawakener.vbproj.GenerateResource.Cache
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Debug\PCawakener.exe
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Debug\PCawakener.pdb
+C:\pro\rwol.net\PCawakener\PCawakener\obj\Debug\PCawakener.vbprojResolveAssemblyReference.cache
